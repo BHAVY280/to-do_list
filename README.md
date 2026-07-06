@@ -88,7 +88,7 @@ This is not a beginner's toy project. **It is the DNA of backend engineering.**
 📁 todo-list-python/
 │
 ├── 📄 todo_list_simple.py     ← Main script
-├── 📄 tasks.json              ← Auto-generated; stores your tasks
+├── 📄 tasks.txt               ← Auto-generated; stores your tasks
 └── 📄 README.md               ← You are here
 ```
 
@@ -211,24 +211,12 @@ Project 4  📌  Database version (SQLite + Python)
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-```
- ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗   ██╗
- ██╔══██╗██║  ██║██╔══██╗██║   ██║╚██╗ ██╔╝
- ██████╔╝███████║███████║██║   ██║ ╚████╔╝ 
- ██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝  ╚██╔╝  
- ██████╔╝██║  ██║██║  ██║ ╚████╔╝    ██║   
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ╚═╝  
-```
-
-</div>
 
 | | |
 |---|---|
 | 👤 **Name** | PATEL BHAVY |
-| 🎓 **Degree** | B.E. Computer Engineering (4th Year) |
-| 🏫 **University** | Gujarat Technological University (GTU) |
+| 🎓 **Degree** | B.E. - Computer Engineering (4th Year) |
+| 🏫 **University** | Gujarat Technological University (GTU) - SSASIT,surat|
 | 🏢 **Internship** | DecodeLabs — Python Programming Track |
 | 📅 **Batch** | 2026 |
 | 🌐 **LinkedIn** | [linkedin.com/in/bhavykumar-patel-3ba52530a](https://www.linkedin.com/in/bhavykumar-patel-3ba52530a) |
